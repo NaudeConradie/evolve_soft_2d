@@ -1,0 +1,6 @@
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "editor.wordWrap": "wordWrapColumn",
+    "python.pythonPath": "C:\\Users\\19673418\\AppData\\Local\\Programs\\Python\\Python36\\python.exe"
+}
